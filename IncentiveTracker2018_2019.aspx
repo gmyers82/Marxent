@@ -12,6 +12,7 @@
      <img src="https://6a8c65a7332a6ea186f2-6c2aaf386ecfc7423d48bccd1a997322.ssl.cf1.rackcdn.com/BusinessPortal/Incentives/EscapeToParadise2019/2019%20Incentive%20Trip%20Banner-.jpg" alt"Escape Banner" style="max-width:1000px;" />
      </td>
     </tr>--%>
+
      <tr>
     
      <td>
