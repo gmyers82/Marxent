@@ -1,0 +1,1 @@
+This is an in office tool to quickly add credits to a customer's account that could then be used towards purchases. 

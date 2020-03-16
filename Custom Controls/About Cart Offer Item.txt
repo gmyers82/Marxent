@@ -1,0 +1,1 @@
+Cart offer is a "candy rack" offering placed at the cart to offer discounted items based on dates, pricing, and products read from the database. Products can be added via ajax  for a smooth transition without a postback. 

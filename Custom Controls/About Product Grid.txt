@@ -1,0 +1,1 @@
+Product grid is designed for a shopping grid which displays and image and information about a product within a category dynamically via client and back end code. Paging controls are also dynamically loaded based on the presets of display options. 
